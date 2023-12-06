@@ -1,0 +1,500 @@
+exit
+docker
+docker swarm --help
+docker swarm ca
+docker swarm ca
+docker swarm init
+docker swarm stop
+docker swarm --help
+docker swarm leave
+docker ps
+exit
+mc
+exit
+ssh mopsuser@10.0.2.15
+ping 10.0.2.15
+ping 10.2.0.15
+exit
+ifconfig
+su
+ping 172.16.100.5
+ip a
+ip a
+su
+exit
+su
+ip a
+ip a
+ip a
+su
+ip a
+htop 
+ip a
+/sbin/brctl show
+ping 192.168.111.64
+/sbin/brctl show
+шз ф
+ip a
+ssh root@192.168.111.64
+ssh mopsuser@192.168.111.64
+ssh mopsuser@192.168.111.64
+exit
+htop 
+htop 
+ssh mopsuser@192.168.111.62
+ssh mopsuser@192.168.111.64
+exit
+ssh mopsuser@192.168.111.61
+exit
+ssh mopsuser@192.168.111.62
+ssh mopsuser@192.168.111.62
+exit
+шз ф
+ip a
+ifconfig
+su
+su
+su
+ls -la
+ssh mopsuser@192.168.122.2
+cd Загрузки/
+la -la
+ls -la
+su
+mc
+ssh root@10.154.140.30
+exit
+ssh root@10.154.140.30
+exit
+ls -l
+mc
+mv alacarte-made-b240ccd8-4e8d-11ee-83a7-0c9d9213317d.desktop GravityCraft.desktop 
+ls -ls
+cp tech.desktop UbuServer.desktop 
+cp tech.desktop UbuNode-0.desktop 
+cp tech.desktop UbuNode-1.desktop 
+mc
+cp UbuServer.desktop UbuNode-0.desktop 
+cp UbuServer.desktop UbuNode-1.desktop 
+mc
+exit
+mc
+exit
+mc
+exit
+mc
+exit
+ssh mopsuser@10.154.140.90
+exit
+ssh mopsuser@10.154.140.91
+ssh mopsuser@10.154.140.92
+exit
+ssh mopsuser@10.154.140.90
+curl 10.154.140.90
+curl 10.154.140.90
+curl 10.154.140.90
+curl 10.154.140.90
+curl 10.154.140.90
+curl 10.154.140.90
+curl 10.154.140.90
+curl 10.154.140.90
+curl 10.154.140.90
+curl 10.154.140.90
+curl 10.154.140.90
+exit
+ssh mopsuser@10.154.140.92
+exit
+ssh mopsuser@10.154.140.91
+exit
+ssh-copy-id root@10.154.140.30
+exit
+ssh root@10.154.140.30
+mc
+exit
+cp tech.desktop VirtAsus.desktop 
+mc
+exit
+ssh root@10.154.140.100
+ping 10.154.140.100
+ping 10.154.140.100
+ssh root@10.154.140.100
+ssh mopsuser@10.154.140.100
+ssh-copy-id root@10.154.140.100
+ssh-copy-id mopsuser@10.154.140.100
+exit
+ssh mopsuser@10.154.140.100
+ssh root@10.154.140.100
+ssh mopsuser@10.154.140.100
+ssh root@10.154.140.100
+ssh-copy-id root@10.154.140.100
+ssh root@10.154.140.100
+exit
+mc
+exit
+ssh-copy-id root@10.154.140.10
+mc
+exit
+ping 10.154.140.30
+exit
+ls -la
+cp GravityCraft.desktop FantasyCraft.desktop 
+mcedit FantasyCraft.desktop 
+exit
+mysql -p
+mysql -u root -p
+mysql_secure_installation 
+su
+su
+exit
+ssh root@10.154.142.188
+su
+su
+exit
+su
+exit
+su
+exit
+su
+su
+exit
+su
+su
+exit
+su
+exit
+su
+exit
+su
+echo $PATH
+sudo su
+exit
+sudo su
+exit
+lsmod 
+lsmod | grep nouveau
+lsmod | grep nvidia
+exit
+su
+su
+exit
+ping 10.154.140.24
+mcedit UbuServer.desktop 
+mv UbuServer.desktop AstraServer.desktop 
+exit
+ip a
+ifconfig
+dmesg | grep enp0s3 | grep up
+sudo su
+cat /sys/class/net/enp3s0/speed
+ping 10.154.140.70
+ping 10.154.140.70
+ping 10.154.140.70
+ping 10.154.140.70
+ping 10.154.140.70
+ping 10.154.140.80
+exit
+ping 10.154.140.70
+ping 10.154.140.80
+ping 10.154.140.70
+ping 10.154.140.80
+ping 10.154.140.80
+ping 10.154.140.70
+ping 10.154.140.70
+ping 10.154.140.80
+ping 10.154.140.70
+ping 10.20.152.18
+exit
+ssh root@109.206.132.122
+exit
+mc
+cp AstraServer.desktop AstraNode.desktop 
+mcedit AstraNode.desktop 
+exit
+mc
+exit
+mc
+exit
+ssh root@10.154.140.80
+exit
+ping 10.154.140.80
+ssh root@10.154.140.80
+exit
+ssh root@10.154.140.80
+ssh root@10.154.140.80
+ssh root@10.154.140.80
+ssh root@10.154.140.80
+ssh root@10.154.140.80
+exit
+ssh root@10.154.140.80
+exit
+ssh root@109.206.132.122
+exit
+ssh root@10.154.140.80
+exit
+ssh root@10.154.140.80
+exit
+ssh root@10.154.140.70
+ssh root@10.154.140.80
+exit
+pwd
+ssh-copy-id root@10.154.140.70
+exit
+ssh-copy-id root@10.154.140.80
+ssh mopsuser@10.154.140.71
+ssh-copy-id root@10.154.140.80
+ssh root@10.154.140.71
+ssh-copy-id root@10.154.140.71
+ssh 10.154.140.71
+ssh root@10.154.140.71
+exit
+ssh root@10.154.140.71
+mcedit ./.ssh/known_hosts
+mcedit ./.ssh/known_hosts
+mcedit ./.ssh/known_hosts
+ssh root@10.154.140.71
+ssh-keygen -f "/home/mopsuser/.ssh/known_hosts" -R "10.154.140.71"
+ssh root@10.154.140.71
+ssh root@10.154.140.71
+exit
+ssh root@10.154.140.71
+mc
+mc
+ssh root@10.154.140.71
+mc
+ssh root@10.154.140.71
+mc
+cd ISOs/
+ls -la
+ls -la
+cd AstraLinux/
+ls -la
+mv 1.7.4-24.04.2023_14.23.iso AstraSE.iso
+ls -la
+scp AstraSE.iso root@10.154.140.71:/var/www/html/iso/
+scp AstraSE.iso root@10.154.140.80:/var/lib/libvirt/images/
+exit
+ping 10.154.140.80
+cat ./.ssh/known_hosts
+exit
+ping 10.154.140.16
+ping 10.154.140.6
+ping 10.154.140.16
+ping 10.154.140.17
+ping 10.154.140.18
+ping 10.154.140.19
+ping 10.154.140.20
+ping 10.154.140.21
+ping 10.154.140.22
+ping 10.154.140.23
+ping 10.154.140.24
+ping 10.154.140.25
+ssh root@109.206.132.122
+exit
+ping 10.20.152.12
+ping 10.20.152.18
+ping 10.20.152.19
+exit
+ssh root@10.154.140.253
+exit
+ping 172.10.20.1
+ping 172.10.20.2
+exit
+ping 10.154.140.20
+ping 172.10.20.2
+ssh root@109.206.132.122
+exit
+ping 10.154.140.10
+mc
+exit
+su
+su
+exit
+su
+exit
+ping 10.20.152.20
+exit
+ping 10.20.152.12
+ping 10.20.152.12
+ping 10.20.152.20
+ping 10.20.152.16
+ping 10.20.152.10
+ping 10.20.152.11
+ping 10.20.152.12
+ping 10.20.152.13
+ping 10.20.152.14
+ping 10.20.152.15
+ping 10.20.152.16
+ping 10.20.152.17
+ping 10.20.152.18
+ping 10.20.152.19
+ping 10.20.152.20
+ping 10.20.152.21
+ping 10.20.152.22
+ping 10.20.152.23
+ping 10.20.152.24
+ping 10.20.152.25
+ping 10.20.152.26
+ping 10.20.152.27
+ping 8.8.8.8
+ping 10.20.152.20
+ping 10.20.152.20
+exit
+route
+su
+su
+ping 10.20.152.20
+exit
+ping 10.20.152.20
+mc
+cp tech.desktop GW-Old.desktop
+mcedit GW-Old.desktop 
+mv GW-Old.desktop gw-vpn.desktop 
+exit
+ssh-copy-id --help
+ssh-copy-id root@109.206.132.122
+exit
+ping 10.20.152.20
+ping 10.20.152.20
+ping 10.20.152.20
+su
+su
+su
+exit
+su
+exit
+su
+exit
+su
+exit\
+exit
+su
+mc
+exit
+ping 10.154.140.77
+ping 10.154.140.77
+ls -la
+cp AstraServer.desktop AstraSE.desktop 
+mcedit AstraSE.desktop 
+exit
+mcedit AstraSE.desktop 
+exit
+ssh root@10.154.140.71
+ssh-keygen -R 10.154.140.71
+ssh root@10.154.140.71
+ssh-copy-id root@10.154.140.71
+exit
+mc
+cp Kaspersky.desktop ArchExch.desktop 
+mcedit ArchExch.desktop 
+exit
+mc
+exit
+xfreerdp /u:"Администратор" /p:"@dm1nM0p$" /w:1920 /h:1030 /v:10.154.140.77
+xfreerdp /u:"Администратор" /p:"@dm1nM0p$" /w:1920 /h:1030 /v:10.154.140.6
+xfreerdp /u:"Администратор" /p:"@dm1nM0p$" /w:1920 /h:1030 /v:10.154.140.77
+xfreerdp /u:"Администратор" /p:"@dm1nM0p$" /w:1920 /h:1030 /v:10.154.140.13
+xfreerdp /u:"Администратор" /p:"@dm1nM0p$" /w:1920 /h:1030 /v:10.154.140.2
+xfreerdp /u:"Администратор" /p:"@dm1nM0p$" /w:1920 /h:1030 /v:10.154.140.5
+xfreerdp /u:"Администратор" /p:"P@N@D0l" /w:1920 /h:1030 /v:10.154.140.6
+xfreerdp /u:"Администратор" /p:"P@N@D0l" /w:1920 /h:1030 /v:10.154.140.6
+xfreerdp 
+xfreerdp -sec-tls /u:"Администратор" /p:"P@N@D0l" /w:1920 /h:1030 /v:10.154.140.6
+xfreerdp /tls-seclevel:0 /u:"Администратор" /p:"P@N@D0l" /w:1920 /h:1030 /v:10.154.140.6
+xfreerdp /tls-seclevel:0 /u:"Администратор" /p:"P@N@D0l" /w:1920 /h:1030 /v:10.154.140.5
+xfreerdp /tls-seclevel:0 /u:"Администратор" /p:"P@N@D0l" /w:1920 /h:1030 /v:10.154.140.2
+xfreerdp /tls-seclevel:0 /u:"Администратор" /p:"@dm1nM0p$" /w:1920 /h:1030 /v:10.154.140.2
+ping 10.154.140.5
+xfreerdp /tls-seclevel:0 /u:"Администратор" /p:"@dm1nM0p$" /w:1920 /h:1030 /v:10.154.140.5
+xfreerdp /u:"Администратор" /p:"@dm1nM0p$" /w:1920 /h:1030 /v:10.154.140.5
+mc
+exit
+xfreerdp /u:"Администратор" /p:"@dm1nM0p$" /w:1920 /h:1030 /v:10.154.140.7
+xfreerdp /tls-seclevel:0 /u:"Администратор" /p:"@dm1nM0p$" /w:1920 /h:1030 /v:10.154.140.7
+xfreerdp /tls-seclevel:0 /ssl-seclevel:0 /u:"Администратор" /p:"@dm1nM0p$" /w:1920 /h:1030 /v:10.154.140.7
+mc
+xfreerdp /tls-seclevel:0 /u:"Администратор" /p:"@dm1nM0p$" /w:1920 /h:1030 /v:10.154.140.7
+xfreerdp /tls-seclevel:1 /u:"Администратор" /p:"@dm1nM0p$" /w:1920 /h:1030 /v:10.154.140.7
+xfreerdp /tls-seclevel:0 /u:"Администратор" /p:"@dm1nM0p$" /w:1920 /h:1030 /v:10.154.140.7
+xfreerdp /tls-seclevel:0 /sec:nla /u:"Администратор" /p:"@dm1nM0p$" /w:1920 /h:1030 /v:10.154.140.7
+xfreerdp /sec:nla /u:"Администратор" /p:"@dm1nM0p$" /w:1920 /h:1030 /v:10.154.140.7
+xfreerdp /tls-seclevel:0 /u:"Администратор" /p:"@dm1nM0p$" /w:1920 /h:1030 /v:10.154.140.7
+xfreerdp /tls-seclevel:0 /u:"Администратор" /p:"P@N@D0l" /w:1920 /h:1030 /v:10.154.140.7
+su
+remote-viewer 
+remote-viewer --help
+remote-viewer --help-spice
+remote-viewer --help-gtk-vnc
+remote-viewer vnc://10.154.140.80:5904
+remote-viewer vnc://10.154.140.80:5902
+wget https://mirror.rosalinux.ru/rosa/rosa2021.1/iso/ROSA.FRESH.12/plasma5/ROSA.FRESH.PLASMA5.12.4.x86_64.iso
+wget https://mirror.rosalinux.ru/rosa/rosa2021.1/iso/ROSA.FRESH.12/gnome/ROSA.FRESH.GNOME.12.4.x86_64.iso
+wget https://mirror.rosalinux.ru/rosa/rosa2021.1/iso/ROSA.FRESH.12/lxqt/ROSA.FRESH.LXQT.12.4.x86_64.iso
+wget https://mirror.rosalinux.ru/rosa/rosa2021.1/iso/ROSA.FRESH.12/server/ROSA.FRESH.SERVER.12.4.x86_64.iso
+wget https://mirror.rosalinux.ru/rosa/rosa2021.1/iso/ROSA.FRESH.12/xfce/ROSA.FRESH.XFCE.12.4.x86_64.iso
+exit
+su
+su
+exit
+mc
+cd .ssh/
+ls -la
+cat id_rsa.pub 
+echo "# AnimalNursery" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:chipgentoo/AnimalNursery.git
+git push -u origin main
+git push -u origin main
+git status
+git add src/Model/PetType.java
+git status
+git commit -m "Типы домашних животных"
+git config --global --edit
+git commit -m "Типы домашних животных"
+git push
+git status
+git add src/Model/Pet.java
+git status
+git commit -m "Базовый абстрактный класс Домашних животных"
+git config --global user.name "chipgentoo"
+git config --global user.email "chip.gentoo@gmail.com"
+git commit --amend --reset-author
+git push
+su
+apt install ./dbeaver-ce_23.3.0_amd64.deb 
+sudo apt install ./dbeaver-ce_23.3.0_amd64.deb 
+exit
+mc
+clear
+ls
+cat Pets_Animal
+cat > Pets_Animal
+cat > Pack_Animal
+cat > Pets_Animal
+mc
+clear
+mkdir PP_Animal
+cd PP_Animal/
+cat > Pets_Animal
+cat > Pack_Animal
+cat Pets_Animal Pack_Animal > Animals
+cat Animals 
+mv Animals "Human Friends"
+ls
+cat Human\ Friends 
+clear
+cd ..
+mkdir Animals
+mv PP_Animal/Human\ Friends Animals/
+ls PP_Animal/
+ls Animals/
+rm -R PP_Animal/
+clear
+wget https://dev.mysql.com/get/mysql-apt-config_0.8.28-1_all.deb
+dpkg -i mysql-apt-config_0.8.28-1_all.deb 
+sudo dpkg -i mysql-apt-config_0.8.28-1_all.deb 
+apt update
+wget https://dev.mysql.com/get/mysql-apt-config_0.8.28-1_all.deb
+mc
