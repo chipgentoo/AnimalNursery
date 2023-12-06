@@ -16,7 +16,7 @@ public class ConsoleMenu {
     public void start() {
 
         System.out.print("\033[H\033[J");
-        try (Scanner in = new Scanner(System.in, "ibm866"); Counter count = new Counter()) {
+        try (Scanner in = new Scanner(System.in); Counter count = new Counter()) {
 
             boolean flag = true;
             int id;
